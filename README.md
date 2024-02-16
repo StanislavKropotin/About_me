@@ -1,3 +1,3 @@
 # About me
 
-Просто небольшой пример работы с CSS и HTML
+Just a small example of working with CSS and HTML
